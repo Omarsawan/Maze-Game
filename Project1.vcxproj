@@ -148,7 +148,6 @@
     <ClInclude Include="TextureBuilder.h" />
   </ItemGroup>
   <ItemGroup>
-    <Media Include="collisionw.wav" />
     <Media Include="D:\guc\7\ph.wav" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

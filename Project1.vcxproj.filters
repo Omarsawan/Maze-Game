@@ -34,8 +34,5 @@
     <Media Include="D:\guc\7\ph.wav">
       <Filter>Source Files</Filter>
     </Media>
-    <Media Include="collisionw.wav">
-      <Filter>Source Files</Filter>
-    </Media>
   </ItemGroup>
 </Project>
